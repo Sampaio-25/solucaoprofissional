@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test-bg {
+    background-color: red; /* Altere para qualquer cor */
+    height: 100px;
+    width: 100%;
+}
+
+[x-cloak] {
+    display: none;
+}
